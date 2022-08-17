@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/canvas-bg/static/css/main.ae4bc4a2.css",
+    "main.js": "/canvas-bg/static/js/main.354daf9b.js",
+    "index.html": "/canvas-bg/index.html",
+    "main.ae4bc4a2.css.map": "/canvas-bg/static/css/main.ae4bc4a2.css.map",
+    "main.354daf9b.js.map": "/canvas-bg/static/js/main.354daf9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae4bc4a2.css",
+    "static/js/main.354daf9b.js"
+  ]
+}
