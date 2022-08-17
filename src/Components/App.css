@@ -1,0 +1,19 @@
+.div{
+    background-color: transparent;
+    color:wheat
+}
+
+.input__wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 170px;
+}
+
+input{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 170px;
+    background-color: transparent;
+    color: lightgray;
+    z-index: 2;
+}

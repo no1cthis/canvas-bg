@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+}
+
+html{
+    overflow: hidden;
+}
+
+
+.bg{
+    z-index: 1;
+    position: absolute;
+    top:0;
+    left:0;
+}
+
